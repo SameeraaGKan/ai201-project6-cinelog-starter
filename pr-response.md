@@ -4,19 +4,6 @@
 
 <img width="1247" height="311" alt="image" src="https://github.com/user-attachments/assets/c0522670-209f-41f7-a43b-efea499d09b3" />
 
-```
-156ddb8 docs: add pr-response.md with PR review responses
-7067479 fix: sort watchlist by date added instead of alphabetically
-675923d fix: update WatchlistEntry.film_id to UUID after main branch refactor
-b643797 fix: default WatchlistEntry.public to False
-34cd615 test: add tests/test_watchlist.py for add_to_watchlist
-dcc696c fix: add deduplication check to add_to_watchlist
-a19b643 fix: rename save_to_watchlist to add_to_watchlist
-8d36193 fix: add missing Film.watchlist_entries relationship
-3fd152d fix: update film retrieval method to use db.session.get in collection and watchlist services
-609df8f feat: add watchlist model and add_to_watchlist endpoint
-```
-
 10 commits ahead of `main`, all conventional-format, no merge commits (`git log --oneline --merges main..HEAD` returns nothing).
 
 ## AI Usage
