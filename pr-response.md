@@ -2,7 +2,7 @@
 
 ## Commit History
 
-> **TODO before submitting:** replace this text block with an actual screenshot of `git log --oneline` run in your terminal, per the assignment's submission checklist.
+<img width="1247" height="311" alt="image" src="https://github.com/user-attachments/assets/c0522670-209f-41f7-a43b-efea499d09b3" />
 
 ```
 156ddb8 docs: add pr-response.md with PR review responses
